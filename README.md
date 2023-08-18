@@ -1,4 +1,4 @@
-# Nikita's Funktastic Portfolio! 🚀
+# Nikita's Funktastic Portfolio!🚀
 Hey there, welcome to my digital playground! 🎉 Explore my coding adventures, where I turn caffeine into code and dreams into reality. 🌟
 
 ## Who's Behind the Magic? 🧙‍♀️
